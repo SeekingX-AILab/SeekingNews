@@ -1,3 +1,3 @@
 # SeekingNews
 
-always reading someone you want from the platform
+always reading the news that you want from the platform
